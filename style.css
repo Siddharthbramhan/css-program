@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#box {
+    background-color: yellow;
+}
+
+body {
+    background-color: yellow;
+}
+
+#ram {
+    color: red;
+}
+
+.heading {
+    color: red;
+}
+
+button {
+    color: rgb(13, 255, 13);
+}
+
+p {
+    text-align: right;
+}
+
+l {
+    text-align: right;
+    text-decoration: dotted underline;
+    background-color: aquamarine;
+    font-weight: bolder;
+}
+
+#raghunandan {
+    color: blueviolet;
+    text-align: right;
+    text-decoration: wave underline;
+    font-weight: 900;
+}
+
+#krishna {
+    color: brown;
+    text-align: right;
+    text-decoration: overline;
+    font-size: bold;
+}
+
+#lic {
+    color: red;
+    text-align: left;
+    text-decoration: underline;
+    font-size: bold;
+    text-decoration-color: azure;
+}
+#atal{
+    color:darkorange;
+    text-decoration:wavy line;
+    text-align:right;
+    text-decoration-color: crimson;
+}
